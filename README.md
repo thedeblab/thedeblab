@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Debora aka @thedeblab
+- 👀 I’m interested in Mobile Development (Mainly for Android), UX/UI Design, Artificial Inteligence and Machine Learning.
+- 🌱 I’m currently learning Flutter/Dart, but I also have interess in learning Kotlin, and I'm currently studying Mobile Development in college to learn how to create wonderful apps in the near future. 💖📱 
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I'm still learning how to code, so, baby steps.
